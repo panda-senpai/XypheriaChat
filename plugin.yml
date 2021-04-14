@@ -1,0 +1,9 @@
+name: XypheriaChat
+main: com.xypheria.chat.XypheriaChat
+version: 1.0
+api-version: 1.13
+commands:
+  foobar:
+    description: My foobar has a first name
+    usage: /foobar
+    permission: xypheriachat.foobar
